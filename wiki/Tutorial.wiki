@@ -17,11 +17,11 @@ Put the following css files into your page:
 
 == CSS Files==
 
-reset.css - based on Eric Meyer [http://meyerweb.com/eric/tools/css/reset/ reset.css]
-grid.css - the core CSS (building all the grids)
-type.css - basic css formatting
-ie.css - resolve some IE bugs
+ * reset.css - based on Eric Meyer [http://meyerweb.com/eric/tools/css/reset/ reset.css]
+ * grid.css - the core CSS (building all the grids)
+ * type.css - basic css formatting
+ * ie.css - resolve some IE bugs
 
- ==How emastic work?==
+==How emastic work?==
 
 The grid sistem is based on ems [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css elastic layout].
