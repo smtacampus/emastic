@@ -27,3 +27,11 @@ Put the following css files into your page:
 The grid sistem is based on ems [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css elastic layout].
 The grid sistem is not limited only on ems you can use px or % for the page width. 
 (Eg:width:xx em or width:xx px or width:xx %)
+The grid is made from blocks from 5em to 75em (1em = 16px). Take a look at the [http://spreadsheets.google.com/pub?key=pXCrVPXw4_XgzS0v_bgZecQ spreadsheet].
+There is also one block widh 100% and one for fluid columns. The block can be floated left or right. And that is it!
+
+== legend==
+All css classes have min. names in order to preserve space.
+
+dl
+dr
