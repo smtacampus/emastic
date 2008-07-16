@@ -21,7 +21,7 @@ Put the following css files into your page:
  * grid.css - the core CSS (building all the grids)
  * type.css - basic css formatting
  * ie.css - resolve some IE bugs
-
+ 
 ==How emastic work?==
 
 The grid sistem is based on ems [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css  elastic layout].
@@ -75,6 +75,22 @@ If we need 3 columns we can do:
  <div class="dl50"> 50 em </div>
  <div class="dl10"> 10 em </div>
  <div class="dl10"> 10 em </div>
+
+ <br class=clear" />
+
+</div>
+}}}
+
+What if the main container is 80%?
+
+Then we use fluid columns. If we need 3 columns layout we will use 1 fluid and 2 fixed columns.
+
+{{{
+<div class="main">
+
+ <div class="dl20"> 20 em </div>
+ <div class="dr20"> 20 em </div>
+ <div class="fluid"> fluid </div>
 
  <br class=clear" />
 
