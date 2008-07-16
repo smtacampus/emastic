@@ -65,6 +65,18 @@ If we need 3 columns we can do:
  <div class="dl30"> 30 em </div>
 
  <br class=clear" />
+ 
+ <div class="dl10"> 10 em </div>
+ <div class="dl30"> 30 em </div>
+ <div class="dl30"> 30 em </div>
+
+ <br class=clear" />
+
+ <div class="dl50"> 50 em </div>
+ <div class="dl10"> 10 em </div>
+ <div class="dl10"> 10 em </div>
+
+ <br class=clear" />
 
 </div>
 }}}
