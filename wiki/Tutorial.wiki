@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+
+= Tutorial=
+
+
+
+
+== Instalation==
+Put the following css files into your page:
+{{{
+ <link  href="css/reset.css" type="text/css">
+ <link  href="css/grid.css" type="text/css">
+ <link  href="css/type.css" type="text/css">
+ <!--[if IE]><link  href="css/ie.css" type="text/css"><![endif]-->
+
+}}}
