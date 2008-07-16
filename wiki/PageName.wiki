@@ -1,7 +1,6 @@
-
 = To do list=
 
- * [More examples]
- * [Better tutorial]
- * [Comments on CSS]
-
+ * More examples
+ * Better tutorial
+ * Comments on CSS
+ * Integration with my other project [http://code.google.com/p/hartija Hartija] and [http://code.google.com/p/formy-css-framework/ Formy]
