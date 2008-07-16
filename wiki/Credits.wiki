@@ -1,13 +1,12 @@
-
 = Credits & useful links=
 
 ==Links==
 
- * [http://www.alistapart.com/articles/frameworksfordesigners/
+ * [http://www.alistapart.com/articles/frameworksfordesigners/]
  * [http://www.alistapart.com/articles/settingtypeontheweb/]
  * [http://www.alistapart.com/articles/outsidethegrid]
  * [http://www.markboulton.co.uk/articles/detail/feeling_your_way_around_grids/]
- * [http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_designing_grid_systems_part_1/ ]
+ * [http://www.markboulton.co.uk/journal/comments]/five_simple_steps_to_designing_grid_systems_part_1/ ]
  * [http://cameronmoll.com/archives/2006/12/gridding_the_960/]
  * [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css]
  * [http://www.smashingmagazine.com/2007/04/14/designing-with-grid-based-approach/]
