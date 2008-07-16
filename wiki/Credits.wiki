@@ -11,7 +11,7 @@
  * [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css]
  * [http://www.smashingmagazine.com/2007/04/14/designing-with-grid-based-approach/]
 
-== the pioneers of css grid & framework==
+== The pioneers of css grid & framework==
 
  * [http://jeffcroft.com/ Jeff Croft]
  * [http://subtraction.com/ Khoi Vinh]
