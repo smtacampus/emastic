@@ -24,7 +24,7 @@ Put the following css files into your page:
 
 ==How emastic work?==
 
-The grid sistem is based on ems [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css elastic layout].
+The grid sistem is based on ems [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css  elastic layout].
 
 The grid sistem is not limited only on ems you can use px or % for the page width. 
 (Eg:width:xx em or width:xx px or width:xx %).
@@ -43,3 +43,28 @@ All css classes have min. names in order to preserve space.
  * hp - hundred percent
 
 (e.g dl20 = div floated left, with width of 20em(320px) 
+
+== Some code==
+The basic container is "main" class, by default is 70em(1120px).
+
+Inside the main container we can put 1,2,3,4 or more columns.
+
+If we need 3 columns we can do:
+
+ * 20em + 20em + 30em = 70em or
+
+ * 10em + 30em + 30em = 70em or
+
+ * 50em + 10em + 10em = 70em ...
+
+{{{
+<div class="main">
+
+ <div class="dl20"> 20 em </div>
+ <div class="dl20"> 20 em </div>
+ <div class="dl30"> 30 em </div>
+
+ <br class=clear" />
+
+</div>
+}}}
