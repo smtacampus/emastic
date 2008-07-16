@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+
 
 = Tutorial- emastic=
 
@@ -22,12 +22,12 @@ Put the following css files into your page:
  * type.css - basic css formatting
  * ie.css - resolve some IE bugs
  
-==How emastic work?==
+==How emastic works?==
 
 The grid sistem is based on ems [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css  elastic layout].
 
-The grid sistem is not limited only on ems you can use px or % for the page width. 
-(Eg:width:xx em or width:xx px or width:xx %).
+The grid sistem is not limited only on ems. You can use px or % for the page width. 
+(e.g: width:xx em or width:xx px or width:xx %).
 
 The grid is made from blocks from 5em to 75em (1em = 16px). Take a look at the [http://spreadsheets.google.com/pub?key=pXCrVPXw4_XgzS0v_bgZecQ spreadsheet].
 
