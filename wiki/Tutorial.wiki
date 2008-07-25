@@ -1,5 +1,4 @@
 
-
 = Tutorial- emastic=
 
 
@@ -64,19 +63,19 @@ If we need 3 columns we can do:
  <div class="dl20"> 20 em </div>
  <div class="dl30"> 30 em </div>
 
- <br class=clear" />
+ <br class="clear" />
  
  <div class="dl10"> 10 em </div>
  <div class="dl30"> 30 em </div>
  <div class="dl30"> 30 em </div>
 
- <br class=clear" />
+ <br class="clear" />
 
  <div class="dl50"> 50 em </div>
  <div class="dl10"> 10 em </div>
  <div class="dl10"> 10 em </div>
 
- <br class=clear" />
+ <br class="clear" />
 
 </div>
 }}}
@@ -92,7 +91,7 @@ Then we use fluid columns. If we need 3 columns layout we will use 1 fluid and 2
  <div class="dr20"> 20 em </div>
  <div class="fluid"> fluid </div>
 
- <br class=clear" />
+ <br class="clear" />
 
 </div>
 }}}
