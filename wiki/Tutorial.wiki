@@ -1,4 +1,3 @@
-
 = Tutorial- emastic=
 
 
@@ -7,10 +6,10 @@
 == Instalation==
 Put the following css files into your page:
 {{{
- <link  href="css/reset.css" type="text/css">
- <link  href="css/grid.css" type="text/css">
- <link  href="css/type.css" type="text/css">
- <!--[if IE]><link  href="css/ie.css" type="text/css"><![endif]-->
+ <link  href="css/reset.css" rel="stylesheet" type="text/css">
+ <link  href="css/grid.css" rel="stylesheet" type="text/css">
+ <link  href="css/type.css" rel="stylesheet"  type="text/css">
+ <!--[if IE]><link  href="css/ie.css" type="text/css" rel="stylesheet"><![endif]-->
 
 }}}
 
