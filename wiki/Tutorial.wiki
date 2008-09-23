@@ -19,6 +19,7 @@ Put the following css files into your page:
  * grid.css - the core CSS (building all the grids)
  * type.css - basic css formatting
  * ie.css - resolve some IE bugs
+ * gadgets.css (new) - plugin
  
 ==How emastic works?==
 
@@ -28,8 +29,8 @@ The grid sistem is not limited only on ems. You can use px or % for the page wid
 (e.g: width:xx em or width:xx px or width:xx %).
 
 The grid is made from blocks from 5em to 75em (1em = 16px). Take a look at the [http://spreadsheets.google.com/pub?key=pXCrVPXw4_XgzS0v_bgZecQ spreadsheet].
-
-There is also one block widh 100% and one for fluid columns. The block can be floated left or right. And that is it!
+I added blocks of 1 and 2 ems for fine tuning.
+There is also one block widh 100% and one for fluid columns.  The block can be floated *left* or *right*. And that is it!
 
 == legend==
 All css classes have min. names in order to preserve space.
