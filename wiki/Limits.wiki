@@ -1,9 +1,7 @@
-
 = Limits=
 
 In order to work correctly the fluid div must be placed at the end before the "clear" div or br.
 
-I still can't implement the clearfix hack it's not working correctly on some browsers.
 
 I'm working on the solution.
 
