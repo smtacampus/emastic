@@ -10,6 +10,7 @@
  * [http://cameronmoll.com/archives/2006/12/gridding_the_960/]
  * [http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css]
  * [http://www.smashingmagazine.com/2007/04/14/designing-with-grid-based-approach/]
+ * [http://www.456bereastreet.com/archive/201101/only_use_ems_for_the_total_width_of_em-based_layouts/]
 
 == The pioneers of css grid & framework==
 
